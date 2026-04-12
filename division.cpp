@@ -1,7 +1,8 @@
 #include<iostream>
 using namespace std;
-int main(){
+int main()[
 int x=10;
 int b=40;
 int division =x/b;
-cout<<
+cout<<"result"<< division << endl; 
+]
